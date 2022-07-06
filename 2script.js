@@ -1,0 +1,10 @@
+document.getElementById('first').style.color="red";
+document.getElementById('first').innerHTML="this is the introduction of javascript  ";
+document.getElementById('first').style.border="1px solid grey";
+document.body.style.margin="0";
+document.body.style.padding="0"
+document.body.style.boxSizing="borderbox"
+document.getElementById('first').style.fontSize="33px";
+document.getElementById('first').style.marginBottom="20px";
+document.getElementById('second').style.background="black";
+document.getElementById('second').style.color="wheat"
